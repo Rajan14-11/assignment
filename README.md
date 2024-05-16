@@ -1,4 +1,5 @@
 <h1>Freadom Assignment</h1>
+<p>https://rajan14-11.github.io/assignment/</p>
 <hr><p>A app to display the course details and its progress to teacher along with details of other students.</p>
 <img src="https://i2.paste.pics/757c6a68df71f54125f1313fd8a28ad9.png?rand=g75puDowca"/>
 <img src="https://i2.paste.pics/0ef2794697ccef6d0ddd6d0ac8605677.png?rand=7B6PJ84bal"/>
