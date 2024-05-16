@@ -13,7 +13,7 @@ const MultiImage = ({data}) => {
         {
             data.map((item,index)=>(
 
-                <img src={item.src} alt={item.alt} className={`w-16 h-16 rounded-full border-4 border-secondary ${translateVariants[index]}`} />
+                <img key={index} src={item.src} alt={item.alt} className={`w-16 h-16 rounded-full border-4 border-secondary ${translateVariants[index]}`} />
             ))
         }
       </div>
